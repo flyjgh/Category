@@ -1,0 +1,4 @@
+name = "Category"
+uuid = "c4361a88-ed69-42ce-a524-112b317fa523"
+authors = ["flyjgh <doctorzwei@gmail.com>"]
+version = "0.1.0"
